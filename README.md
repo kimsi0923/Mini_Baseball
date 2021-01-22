@@ -44,16 +44,19 @@ RESET버튼은 말그대로 처음상태로 돌아간다. 게임이 끝난 후 �
 #### 제한사항
 > 7세그먼트가 4자리이기 때문에 모든 전광판 내용을 표현하기가 힘듦.
 > >스위치 2번을 이용하여 누를 때 마다 원하는 내용이 보이도록 구현
-
+>
 ## 사용 보드 및 소프트웨어
 #### JKIT-128-1
 <img src="https://user-images.githubusercontent.com/73647861/105478402-7a5bc480-5ce6-11eb-8736-93a6af55fc30.jpg" width="400" height="300">
+
 - ATmega128 실습 및 개발보드로서 ISP 프로그래머를 내장하고 있다.
 
 #### AVR Studio
 <img src="https://user-images.githubusercontent.com/73647861/105478995-47660080-5ce7-11eb-952b-256d41cffce6.jpg" width="400" height="300">
+
 - 입력된 코드들을 통하여 JKIT-128-1로 구현시키기 위한 개발 환경이다.
 
 #### Tera Term
 <img src="https://user-images.githubusercontent.com/73647861/105479545-eee33300-5ce7-11eb-96cc-807e28a041b7.jpg" width="400" height="300">
+
 - PC 시리얼 통신 프로그램이다.
